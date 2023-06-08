@@ -12,7 +12,7 @@
 }
 
 .container li {
-	margin-right:  1rem: 
-	
-  display: inline;
+	margin-right:  16px: 
+	  display: flex; 
+/*   display: inline; */
 }
