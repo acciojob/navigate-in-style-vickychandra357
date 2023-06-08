@@ -5,13 +5,14 @@
 	
 }
 
-ul{  
-	margin-right:  1rem: 
+.container ul{  
+	
 		
 	    list-style-type:none;
 }
 
-li {
+.container li {
+	margin-right:  1rem: 
 	
   display: inline;
 }
